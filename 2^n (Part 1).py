@@ -1,4 +1,4 @@
-#Determine the value of 2^n
+#Determine the value of 2^n and the last digit of 2^n
 print("2^n = ?")
 n=eval(input("Enter power or the value of the exponent: "))
 p=2**n
